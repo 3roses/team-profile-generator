@@ -1,0 +1,15 @@
+
+.padding{
+    padding: 5rem 5rem;
+} 
+
+.row{
+    justify-content: center;
+}
+
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
