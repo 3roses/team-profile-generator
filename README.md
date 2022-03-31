@@ -4,6 +4,8 @@
 
 This program will generate an informational card for each employee on a specific team.  The user can generate a card for the manager, engineers, and interns.  Each card will contain unique information according to the specific role they play on the team.  For instance, the manager will be the only card that has an office number.  Similarly, engineers will be the only members with a github link and interns will be the only ones with a school listed.  Once all team member information is entered, an HTML file is created which can be opened in the web browser.  Each individual member has their own card with their own unique information.
 
+-------------------------------
+
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -12,6 +14,8 @@ This program will generate an informational card for each employee on a specific
 4. [Test Instructions](#test)
 5. [Questions](#questions)
 6. [License](#license)
+
+------------------------------
 
 ## Installation <a name="installation"></a>
 
