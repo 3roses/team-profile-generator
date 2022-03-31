@@ -74,7 +74,7 @@ describe("Engineer class", () => {
                     <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: 5</li>
                     <li class="list-group-item">email: <a href="mailto:craig@craig.com">craig@craig.com</a></li>
-                    <li class="list-group-item">GitHub: <a href="github.com/craig345"></a>github.com/craig345</li>
+                    <li class="list-group-item">GitHub: <a href="github.com/craig345">github.com/craig345</a></li>
                     </ul>
                 </div>`
             );
