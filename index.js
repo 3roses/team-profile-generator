@@ -158,7 +158,7 @@ function renderHtml (allData) {
 
         </body>
         </html>
-        `
+        ` 
     writeHTMLToFile(htmlStr)
 }
 

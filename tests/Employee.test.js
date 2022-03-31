@@ -19,9 +19,7 @@ describe("Employee class", () => {
 
             const newEmployee = new Employee("Craig", 5, "craig@craig.com");
             expect(newEmployee.getName()).toEqual("Craig");
-        })
-
-            
+        })           
     })
 
     describe("getId", () => {
@@ -30,9 +28,7 @@ describe("Employee class", () => {
 
             const newEmployee = new Employee("Craig", 5, "craig@craig.com");
             expect(newEmployee.getId()).toEqual(5);
-        })
-
-            
+        })            
     })
 
     describe("geEmail", () => {
@@ -41,9 +37,7 @@ describe("Employee class", () => {
 
             const newEmployee = new Employee("Craig", 5, "craig@craig.com");
             expect(newEmployee.getEmail()).toEqual("craig@craig.com");
-        })
-
-            
+        })           
     })
 
     describe("getRole", () => {
@@ -52,9 +46,7 @@ describe("Employee class", () => {
 
             const newEmployee = new Employee("Craig", 5, "craig@craig.com");
             expect(newEmployee.getRole()).toEqual("Employee");
-        })
-
-            
+        })           
     })
 })
 
