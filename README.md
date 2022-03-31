@@ -32,6 +32,11 @@ This program's intended purpose is to provide a simple solution to creating clea
 
 Open the integrated terminal from the package.json file and type the command "npm run test" to make sure the program is functioning properly on your personal machine.
 
+## Walkthrough Video and Screenshot
+
+![Screenshot of team profile cards](./assets/team_card_generator.png)
+* [Walkthrough video](https://drive.google.com/file/d/1OiSOL95bP9TjjMXQVLYsLhBJPspBjbx-/view)
+
 ## Licenses <a name="license"></a>
 
 * The MIT License
